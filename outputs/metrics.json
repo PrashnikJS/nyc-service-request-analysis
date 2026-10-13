@@ -1,0 +1,13 @@
+{
+  "source_rows": 72494,
+  "invalid_created_rows": 0,
+  "negative_closure_intervals": 80,
+  "accepted_rows": 72494,
+  "closed_by_cutoff": 65460,
+  "open_or_invalid_at_cutoff": 7034,
+  "request_categories": 154,
+  "median_closed_hours": 6.0969444444444445,
+  "within_48h_pct_all_requests": 68.00286920296853,
+  "analysis_cutoff": "2025-12-01 00:00:00",
+  "charts": 3
+}
